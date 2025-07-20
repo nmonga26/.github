@@ -61,7 +61,7 @@ GitHub Topics provide a powerful way to categorize and enhance repository discov
 - `template` - Project template
 - `example` - Example implementation
 - `tutorial` - Tutorial/learning resource
-- `specification` - Specification document
+- `specifications` - Specification document
 - `test-suite` - Testing framework
 - `benchmark` - Performance benchmark
 
@@ -70,7 +70,7 @@ GitHub Topics provide a powerful way to categorize and enhance repository discov
 ### Categories (Primary)
 
 **Core Categories:**
-- `specifications` - Protocol and API specifications
+- [specifications](https://github.com/orgs/nmonga26/repositories?q=topic:specifications) - Protocol and API specifications
 - `reference-apps` - Reference implementations
 - `automation-testing` - Testing automation tools
 - `mock-sandbox` - Mock servers and sandboxes
@@ -273,70 +273,70 @@ GitHub Topics provide a powerful way to categorize and enhance repository discov
 
 **All reference apps:**
 ```
-https://github.com/orgs/ONDC-Official/repositories?q=topic:reference-apps
+https://github.com/orgs/nmonga26/repositories?q=topic:reference-apps
 ```
 
 **All SDKs:**
 ```
-https://github.com/orgs/ONDC-Official/repositories?q=topic:sdks
+https://github.com/orgs/nmonga26/repositories?q=topic:sdks
 ```
 
 **All specifications:**
 ```
-https://github.com/orgs/ONDC-Official/repositories?q=topic:specifications
+https://github.com/orgs/nmonga26/repositories?q=topic:specifications
 ```
 
 ### By Subcategory
 
 **Buyer apps only:**
 ```
-https://github.com/orgs/ONDC-Official/repositories?q=topic:buyer-apps
+https://github.com/orgs/nmonga26/repositories?q=topic:buyer-apps
 ```
 
 **Seller apps only:**
 ```
-https://github.com/orgs/ONDC-Official/repositories?q=topic:seller-apps
+https://github.com/orgs/nmonga26/repositories?q=topic:seller-apps
 ```
 
 ### By Status
 
 **Production-ready repositories:**
 ```
-https://github.com/orgs/ONDC-Official/repositories?q=topic:production
+https://github.com/orgs/nmonga26/repositories?q=topic:production
 ```
 
 **Beta repositories:**
 ```
-https://github.com/orgs/ONDC-Official/repositories?q=topic:beta
+https://github.com/orgs/nmonga26/repositories?q=topic:beta
 ```
 
 ### By Domain
 
 **Retail domain repos:**
 ```
-https://github.com/orgs/ONDC-Official/repositories?q=topic:retail
+https://github.com/orgs/nmonga26/repositories?q=topic:retail
 ```
 
 **Logistics domain repos:**
 ```
-https://github.com/orgs/ONDC-Official/repositories?q=topic:logistics
+https://github.com/orgs/nmonga26/repositories?q=topic:logistics
 ```
 
 ### Combined Searches
 
 **Production-ready SDKs:**
 ```
-https://github.com/orgs/ONDC-Official/repositories?q=topic:sdks+topic:production
+https://github.com/orgs/nmonga26/repositories?q=topic:sdks+topic:production
 ```
 
 **React-based buyer apps:**
 ```
-https://github.com/orgs/ONDC-Official/repositories?q=topic:buyer-apps+topic:react
+https://github.com/orgs/nmonga26/repositories?q=topic:buyer-apps+topic:react
 ```
 
 **Frontend reference apps in production:**
 ```
-https://github.com/orgs/ONDC-Official/repositories?q=topic:reference-apps+topic:frontend+topic:production
+https://github.com/orgs/nmonga26/repositories?q=topic:reference-apps+topic:frontend+topic:production
 ```
 
 ## Best Practices
